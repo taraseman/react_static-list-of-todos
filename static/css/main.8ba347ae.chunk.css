@@ -1,0 +1,2 @@
+body{background-color:#a8a8a8}h1{text-align:center;font-size:50px;text-decoration:underline}.TodosItem{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;-webkit-align-items:center;align-items:center;background-color:#fff;border-radius:20px;margin-bottom:20px;border:3px solid grey}.TodosItem--done{background-color:grey}.TodosList{list-style:none}
+/*# sourceMappingURL=main.8ba347ae.chunk.css.map */
